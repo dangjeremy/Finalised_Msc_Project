@@ -26,3 +26,5 @@ Models' used are:
 
 1) NMF
 2) Graph Convolutional Neural Networks
+
+Do note, GitHub doesn't like large .ipynb files; so the two files will be difficult to preview and must be downloaded
